@@ -1,0 +1,12 @@
+[submodule "Traefik-reverse-proxy"]
+	path = Traefik-reverse-proxy
+	url = git@github.com:TiBillet/Traefik-reverse-proxy.git
+[submodule "TiBillet"]
+	path = TiBillet
+	url = git@github.com:TiBillet/TiBillet.git
+[submodule "TibilletCashlessDev"]
+	path = TibilletCashlessDev
+	url = ssh://git@git.3peaks.re:10000/3Peaks/TibilletCashlessDev.git
+[submodule "Functional-testing"]
+	path = Functional-testing
+	url = git@github.com:TiBillet/Functional-testing.git
